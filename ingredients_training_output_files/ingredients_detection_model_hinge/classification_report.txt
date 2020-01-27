@@ -1,0 +1,99 @@
+                    precision    recall  f1-score   support
+
+            Walnut       1.00      0.75      0.86        20
+            Orange       0.37      0.39      0.38        57
+         Nut Pecan       1.00      0.70      0.82        10
+       Onion White       0.79      0.95      0.86        20
+             Honey       0.30      0.30      0.30        10
+         Romanesco       0.20      0.27      0.23        11
+            Pomelo       1.00      0.73      0.85        15
+             Dates       0.67      0.53      0.59        15
+          Mulberry       0.26      0.80      0.39        15
+        Cantaloupe       0.05      0.08      0.06        39
+          Pitahaya       0.79      0.69      0.73        16
+Melon Piel de Sapo       0.68      0.72      0.70        18
+          Mushroom       0.08      0.40      0.14         5
+             Cocos       1.00      1.00      1.00        10
+              Rice       0.15      0.33      0.21        15
+          Eggplant       0.67      0.27      0.39        22
+             Pasta       0.17      0.40      0.24        10
+            Tomato       0.91      0.42      0.57       127
+            Quince       0.79      0.69      0.73        16
+         Pineapple       0.25      0.04      0.07        26
+        Grapefruit       0.00      0.00      0.00        34
+           Vinegar       0.50      0.50      0.50        10
+           Yoghurt       0.68      0.52      0.59       181
+              Plum       0.00      0.00      0.00        22
+         Asparagus       0.00      0.00      0.00        16
+          Hazelnut       1.00      0.60      0.75        15
+          Cucumber       1.00      0.07      0.14        27
+          Soy Milk       0.31      0.27      0.29        60
+       Pomegranate       0.07      0.04      0.05        26
+          Rambutan       0.16      0.75      0.26        16
+       Ginger Root       0.00      0.00      0.00        19
+          Maracuja       1.00      0.82      0.90        11
+             Lemon       0.18      0.14      0.16        42
+             Apple       0.23      0.67      0.35        55
+        Granadilla       0.54      0.70      0.61        10
+             Peach       0.00      0.00      0.00        37
+         Mangostan       1.00      1.00      1.00        10
+             Flour       0.00      0.00      0.00        10
+      Cactus Fruit       0.86      0.76      0.81        25
+             Guava       1.00      0.75      0.86        20
+             Beans       1.00      0.10      0.18        10
+       Bell Pepper       0.47      0.62      0.54       142
+        Strawberry       1.00      1.00      1.00        25
+              Leek       0.00      0.00      0.00        21
+              Kiwi       0.20      0.07      0.10        46
+        Watermelon       0.42      0.48      0.44        46
+             Sugar       0.44      0.40      0.42        10
+          Physalis       1.00      0.46      0.63        13
+     Passion Fruit       0.00      0.00      0.00        28
+              Corn       0.00      0.00      0.00        10
+          Kohlrabi       0.36      0.87      0.51        15
+          Bok Choi       0.00      0.00      0.00        10
+           Apricot       0.53      0.97      0.68        30
+            Cherry       1.00      0.89      0.94         9
+           Cabbage       0.00      0.00      0.00         5
+       Blueberries       1.00      0.76      0.86        29
+          Kumquats       0.90      0.64      0.75        14
+       Cauliflower       1.00      0.70      0.82        20
+            Garlic       0.00      0.00      0.00        25
+       Huckleberry       0.88      0.47      0.61        15
+         Tamarillo       0.59      0.68      0.63        19
+      Tomato Sauce       1.00      0.40      0.57        10
+              Lime       0.00      0.00      0.00        31
+             Grape       1.00      0.76      0.86        25
+               Oil       1.00      0.10      0.18        10
+      Sweet Potato       0.29      0.62      0.40        29
+            Lychee       0.92      1.00      0.96        11
+         Raspberry       1.00      0.80      0.89        15
+              Pear       0.30      0.27      0.28       116
+        Sour Cream       0.00      0.00      0.00         5
+            Potato       0.16      0.35      0.22        46
+              Eggs       0.00      0.00      0.00         4
+        Redcurrant       0.48      0.71      0.57        17
+            Papaya       0.32      0.38      0.35        21
+        Banana Red       1.00      1.00      1.00        26
+              Milk       0.45      0.83      0.58       182
+            Celery       0.33      0.20      0.25        10
+         Carambula       0.00      0.00      0.00        15
+          Oat Milk       0.00      0.00      0.00         5
+           Avocado       0.15      0.07      0.10        40
+   Mandarin Orange       1.00      0.80      0.89        15
+             Mango       0.00      0.00      0.00        32
+            Pepino       1.00      0.53      0.69        19
+          Chestnut       1.00      1.00      1.00        10
+              Kaki       0.92      0.73      0.81        15
+         Nectarine       0.36      0.78      0.49        36
+          Zucchini       0.14      0.14      0.14        29
+        Clementine       1.00      1.00      1.00        10
+          Beetroot       0.25      0.06      0.09        18
+         Onion Red       1.00      0.88      0.93        16
+             Salak       0.88      0.83      0.86        18
+           Carrots       0.50      0.21      0.30        43
+        Nut Forest       1.00      1.00      1.00        10
+            Banana       0.06      0.04      0.05        45
+           Tangelo       1.00      1.00      1.00        15
+
+       avg / total       0.48      0.46      0.44      2614
