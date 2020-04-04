@@ -27,7 +27,7 @@ The data is derived from different sources listed in *Data Sources*.
 
 The approaches we used build on the available literature in ingredients image detections, inference of recipe closeness, and user-recipe-preference matching. The sources of the literature are listed in the section *Literature*.
 
-Finally, our approaches are explained and evaluated in our Google slide deck [Creative Cooking App](https://docs.google.com/presentation/d/1Srjhf28hi3QJZ-fJAD0IVu0_gLrK8uXcIUSNgeqtJh4/edit?usp=sharing).
+Finally, our approaches are explained and evaluated in our Google slide deck [Creative Cooking App](https://docs.google.com/presentation/d/1Srjhf28hi3QJZ-fJAD0IVu0_gLrK8uXcIUSNgeqtJh4/edit?usp=sharing). The slides also give an overview on the infrastructure set-up we are using.
 
 Enjoy!
 
@@ -48,6 +48,8 @@ The repository is structured into five different folders.
 *   **ingredients-word-embeddings** contains all code which was used to explore ingredients swapping based on ingredients closeness. Amongst other approaches, we trained our own word2vec embeddings on recipe data in order to infere ingredients closeness.
 
 *   **cluster-analysis** contains all code which was used to build our decision tree model in order to classify users into the nine different profiles in a user onboarding process as quickly and conveniently as possible and also includes the code to infer recipe closeness. Amongst other approaches we used Latent Semantic Indexing in order to derive the closeness of recipes by using Euclidean Distance. This is an important part of the personalization of teh user-recipe-matching model, as we use this approach to penalize or reward recipes which are too close to a predicted target recipe or are "close enough" respectively.
+
+*   **app-files** contains all the code we used for building the app.
 
 
 ## Data Sources
