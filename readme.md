@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Creative_Cooking_Club.jpg">
+  <img src="logos/Creative_Cooking_Club.jpg">
 </div>
 
 
@@ -39,7 +39,7 @@ Eddie Zhu
 
 ## Structure
 
-The repository is structured into five different folders.
+The repository is structured into six different folders.
 
 *   **user-preference-matching** contains all code and results from clustering users in nine distinct profiles using hierarchical clustering amd training our user-recipe-preference matching model, a multi-layer Neural Network trained on predicting the ratings per recipe for each profile.
 
@@ -50,6 +50,8 @@ The repository is structured into five different folders.
 *   **cluster-analysis** contains all code which was used to build our decision tree model in order to classify users into the nine different profiles in a user onboarding process as quickly and conveniently as possible and also includes the code to infer recipe closeness. Amongst other approaches we used Latent Semantic Indexing in order to derive the closeness of recipes by using Euclidean Distance. This is an important part of the personalization of teh user-recipe-matching model, as we use this approach to penalize or reward recipes which are too close to a predicted target recipe or are "close enough" respectively.
 
 *   **app-files** contains all the code we used for building the app.
+
+*   **logos** contains two of the three logos which were created by the designer *Logoflow* for our project.
 
 
 ## Data Sources
