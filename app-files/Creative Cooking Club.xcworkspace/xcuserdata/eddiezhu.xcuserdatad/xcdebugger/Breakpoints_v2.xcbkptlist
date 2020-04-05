@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "13061BBA-87F7-45E9-B6C3-0BB9B4F7A150"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A679FB52-6AFA-4A32-B854-192F158E11F2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "creative cooking club/View Controllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A679FB52-6AFA-4A32-B854-192F158E11F2 - f7b0a95c7b4aca8f"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CC_Club.ViewController.vision.getter : __C.FIRVision"
+                  moduleName = "CC Club"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eddiezhu/Google%20Drive/Berkeley/W210/creative_cooking_club_final/Source%20Code/Cookbook/creative%20cooking%20club/View%20Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "370">
+               </Location>
+               <Location
+                  uuid = "A679FB52-6AFA-4A32-B854-192F158E11F2 - 9213533a46edb69b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CC_Club.ViewController.vision.setter : __C.FIRVision"
+                  moduleName = "CC Club"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eddiezhu/Google%20Drive/Berkeley/W210/creative_cooking_club_final/Source%20Code/Cookbook/creative%20cooking%20club/View%20Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "A679FB52-6AFA-4A32-B854-192F158E11F2 - dffd223f5ef19b88"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CC_Club.ViewController.vision.modify : __C.FIRVision"
+                  moduleName = "CC Club"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eddiezhu/Google%20Drive/Berkeley/W210/creative_cooking_club_final/Source%20Code/Cookbook/creative%20cooking%20club/View%20Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "A679FB52-6AFA-4A32-B854-192F158E11F2 - 464e726b0367eb9b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CC_Club.ViewController.vision.modify : __C.FIRVision with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "CC Club"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eddiezhu/Google%20Drive/Berkeley/W210/creative_cooking_club_final/Source%20Code/Cookbook/creative%20cooking%20club/View%20Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  uuid = "A679FB52-6AFA-4A32-B854-192F158E11F2 - f7d01f41c26ff37e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CC_Club.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; CC_Club.ViewController"
+                  moduleName = "CC Club"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eddiezhu/Google%20Drive/Berkeley/W210/creative_cooking_club_final/Source%20Code/Cookbook/creative%20cooking%20club/View%20Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "182">
+               </Location>
+               <Location
+                  uuid = "A679FB52-6AFA-4A32-B854-192F158E11F2 - ffb79ecc342a4d84"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CC_Club.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CC_Club.ViewController&gt;"
+                  moduleName = "CC Club"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eddiezhu/Google%20Drive/Berkeley/W210/creative_cooking_club_final/Source%20Code/Cookbook/creative%20cooking%20club/View%20Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "119">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
