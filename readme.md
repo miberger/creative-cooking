@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logos/Creative_Cooking_Club.jpg">
+  <img src="logos/big_logo.png">
 </div>
 
 
